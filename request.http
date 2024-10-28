@@ -1,0 +1,10 @@
+POST http://localhost/course/real_time_chat/admin_side/update_users.php
+Content-Type: application/json
+
+{
+    "user_id": "9",
+    "user_username": "hamed",
+    "user_email": "hamed@email.com",
+    "user_password": "hamed123",
+    "user_gender": "Male"
+}
